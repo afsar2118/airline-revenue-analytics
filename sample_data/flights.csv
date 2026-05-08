@@ -1,0 +1,11 @@
+flight_id,aircraft_type,capacity,departure_city,arrival_city,flight_date,departure_time,arrival_time
+FL001,Boeing 777,350,Dubai,London,2024-05-01,06:00,11:30
+FL002,Airbus A380,500,Abu Dhabi,Paris,2024-05-01,08:00,13:45
+FL003,Boeing 787,242,Doha,New York,2024-05-01,22:00,06:30
+FL004,Airbus A330,250,Riyadh,Bangkok,2024-05-02,10:00,18:00
+FL005,Boeing 777,350,Dubai,Frankfurt,2024-05-02,11:30,14:00
+FL006,Airbus A350,325,Abu Dhabi,Tokyo,2024-05-02,23:00,17:00
+FL007,Boeing 737,189,Doha,Istanbul,2024-05-03,09:00,11:00
+FL008,Airbus A380,500,Dubai,Sydney,2024-05-03,20:00,14:00
+FL009,Boeing 767,218,Riyadh,Mumbai,2024-05-03,13:00,16:30
+FL010,Airbus A320,180,Abu Dhabi,Beirut,2024-05-04,07:00,08:30
